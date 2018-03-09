@@ -1,0 +1,19 @@
+/deep/ #gridContainer {
+  height: 440px;
+}
+/deep/ #gridContainer .dx-datagrid-content tr.dx-data-row {
+  cursor: pointer;
+}
+/deep/ .employeeInfo .employeePhoto{
+  height: 140px;
+  float: left;
+  padding: 20px 20px 20px 0;
+}
+/deep/ .employeeInfo .employeeNotes {
+  padding-top: 20px;
+  text-align: justify;
+  white-space: normal;
+}
+/deep/ .dark .employeeInfo .employeeNotes {
+  color: rgb(181, 181, 181);
+}
